@@ -1,0 +1,13 @@
+{
+  "name": "sarthak-diwali",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sarthak's Diwali celebration website for Vercel",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.1",
+    "formidable": "^3.5.2"
+  }
+}
